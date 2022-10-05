@@ -15,3 +15,11 @@ function createParagraph () {
   corpo.appendChild(paragraph);
 }
 createParagraph();
+// TERCEIRA QUESTÃO
+function createInput() {
+  const input = document.createElement('input');
+  input.id = 'texto-tarefa';
+  corpo.appendChild(input);
+}
+createInput();
+
