@@ -22,4 +22,10 @@ function createInput() {
   corpo.appendChild(input);
 }
 createInput();
-
+// QUARTA QUESTÃO
+function createOrderedList() {
+  const ol = document.createElement('ol');
+  ol.id = 'lista-tarefas';
+  corpo.appendChild(ol)
+}
+createOrderedList();
