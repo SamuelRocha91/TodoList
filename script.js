@@ -65,3 +65,7 @@ function escreveNoDOm() {
   li.innerText = recebeFrases[tamanho];
   ol.appendChild(li);
 }
+ol.addEventListener('click', function(evento) {
+  let oneItem = evento.target;
+  oneItem.style.backgroundColor = 'grey';
+})
