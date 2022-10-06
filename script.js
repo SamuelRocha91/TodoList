@@ -66,6 +66,16 @@ function escreveNoDOm() {
   ol.appendChild(li);
 }
 ol.addEventListener('click', function(evento) {
+  selected = document.querySelector('.selected')
+  if(selected === null){
   let oneItem = evento.target;
   oneItem.style.backgroundColor = 'grey';
+  oneItem.className = 'selected'
+} else {
+  selected.style.backgroundColor = 'white';
+  selected.classList.remove('selected')
+  let oneItem = evento.target;
+  oneItem.style.backgroundColor = 'grey';
+  oneItem.className = 'selected'
+}
 })
