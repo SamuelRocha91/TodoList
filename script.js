@@ -106,3 +106,14 @@ botao2.addEventListener('click', function() {
     }
   }
 })
+const button3= document.createElement('button');
+button3.id = 'remover-finalizados';
+button3.innerText = 'Remover finalizados';
+corpo.appendChild(button3);
+
+button3.addEventListener('click', function() {
+  let gameOver = document.querySelectorAll('.completed');
+  for(let index = gameOver.length - 1; index >= 0; index -= 1){
+    gameOver[index].remove()
+  }
+})
