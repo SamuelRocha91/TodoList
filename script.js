@@ -70,12 +70,25 @@ ol.addEventListener('click', function(evento) {
   if(selected === null){
   let oneItem = evento.target;
   oneItem.style.backgroundColor = 'grey';
-  oneItem.className = 'selected'
+  oneItem.className 
++= ' selected'
 } else {
   selected.style.backgroundColor = 'white';
   selected.classList.remove('selected')
   let oneItem = evento.target;
   oneItem.style.backgroundColor = 'grey';
-  oneItem.className = 'selected'
+  oneItem.className += ' selected'
 }
+})
+let verdade = true;
+ol.addEventListener('dblclick', function(evento) {
+   const completed = document.querySelector('.completed')
+  let elemento = evento.target
+  if(elemento === completed) {
+    elemento.classList.remove('completed');
+    elemento.style.textDecoration = 'none';
+  }else{
+    elemento.className += ' completed';
+    elemento.style.textDecoration = 'line-through solid black';
+  }
 })
