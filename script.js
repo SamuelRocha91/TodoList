@@ -92,3 +92,17 @@ ol.addEventListener('dblclick', function(evento) {
     elemento.style.textDecoration = 'line-through solid black';
   }
 })
+// Questão 10
+const botao2 = document.createElement('button');
+botao2.id = 'apaga-tudo';
+botao2.innerText = 'LIMPAR LISTA';
+corpo.appendChild(botao2);
+
+botao2.addEventListener('click', function() {
+  let children = ol.children;
+  if(children.length > 0){
+    for(let index = children.length - 1; index >= 0; index -= 1){
+      children[index].remove()
+    }
+  }
+})
