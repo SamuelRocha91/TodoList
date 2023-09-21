@@ -1,0 +1,36 @@
+body {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  height: 100vh;
+  border: 1px solid rgb(114, 83, 46);
+  padding: 20px;
+  gap: 10px;
+}
+
+header {
+  font-size: larger;
+  font-weight: bolder;
+}
+
+input {
+  width: 60%;
+}
+
+#apaga-tudo {
+    width: 30%;
+    border-color: rgb(221, 104, 104);
+    color: red;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#remover-finalizados {
+    width: 30%;
+    border-color: yellow;
+    color: rgb(97, 97, 10);
+    padding: 5px;
+    border-radius: 5px;
+}

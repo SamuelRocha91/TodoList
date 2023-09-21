@@ -18,7 +18,7 @@ function createParagraph () {
 createParagraph();
 const form = document.createElement('form');
 form.id = 'addFrases';
-corpo.appendChild(form)
+corpo.appendChild(form);
 // TERCEIRA QUESTÃO
 function createInput() {
   const input = document.createElement('input');
