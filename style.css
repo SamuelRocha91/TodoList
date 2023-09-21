@@ -25,6 +25,8 @@ input {
     color: red;
     padding: 5px;
     border-radius: 5px;
+    cursor: grab;
+
 }
 
 #remover-finalizados {
@@ -33,4 +35,6 @@ input {
     color: rgb(97, 97, 10);
     padding: 5px;
     border-radius: 5px;
+    cursor: grab;
+
 }
