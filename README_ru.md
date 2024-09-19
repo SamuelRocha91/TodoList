@@ -37,7 +37,11 @@
 
 Вот другие проекты, которые я разработал на начальном этапе моей карьеры разработчика:
 
-[Проекты обновляются... следите за новостями!]
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ru.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ru.md)
+
 
 ## Как запустить
 

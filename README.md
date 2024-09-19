@@ -39,7 +39,10 @@ Durante o desenvolvimento deste projeto, foram aprimoradas as seguintes competê
 
 Aqui estão outros projetos que desenvolvi durante o início da minha jornada como desenvolvedor:
 
-[Projetos em atualização... fique ligado para mais!]
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
+- [Calculadora](https://github.com/SamuelRocha91/calculator)
 
 ## Como Executar
 

@@ -37,7 +37,10 @@
 
 إليك بعض المشاريع الأخرى التي طورتها في بداية مسيرتي كمطور:
 
-[المشاريع قيد التحديث... ترقب المزيد!]
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ar.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ar.md)
 
 ## كيفية التشغيل
 

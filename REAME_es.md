@@ -37,7 +37,10 @@ Durante el desarrollo de este proyecto, se mejoraron las siguientes competencias
 
 Aquí están otros proyectos que desarrollé al comienzo de mi trayectoria como desarrollador:
 
-[Proyectos en actualización... ¡mantente atento para más!]
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_es.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_es.md)
 
 ## Cómo Ejecutar
 

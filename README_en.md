@@ -37,7 +37,10 @@ During the development of this project, the following skills were improved:
 
 Here are other projects I developed at the start of my journey as a developer:
 
-[Projects in progress... stay tuned for more!]
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_en.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_en.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_en.md)
 
 ## How to Run
 

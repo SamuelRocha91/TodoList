@@ -37,7 +37,10 @@
 
 以下是我在开发初期完成的其他项目：
 
-[项目更新中... 敬请期待！]
+- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ch.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ch.md)
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ch.md)
 
 ## 如何运行
 
