@@ -2,6 +2,18 @@
 
 ![Demonstração do Projeto](./gifs/toList.gif)
 
+
+<h2>🌐</h2>
+<ul>
+  <li><a href="https://github.com/SamuelRocha91/TodoList" target="_blank">Português</a></li>
+  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md" target="_blank">Español</a></li>
+  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md" target="_blank">English</a></li>
+  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md" target="_blank">Русский</a></li>
+  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md" target="_blank">中文</a></li>
+  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md" target="_blank">العربية</a></li>
+</ul>
+
+
 Este é um projeto bônus desenvolvido no módulo de **Fundamentos** do curso de **Desenvolvimento Web da Trybe**. O objetivo principal foi praticar e aplicar conceitos de **JavaScript**, **CSS** e **HTML** em um organizador de tarefas simples. O projeto envolveu a manipulação dos arquivos `script.js`, `index.html` e `style.css`.
 
 ## Funcionalidades
