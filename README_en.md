@@ -31,8 +31,8 @@ During the development of this project, the following skills were improved:
 Here are other projects I developed at the start of my journey as a developer:
 
 - 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md)
-- 🎨 [Pixels Art](https://github.com/SamuelRoena91/PixelsArt/blob/main/README_en.md)
-- 🧮 [Calculadora](https://github.com/SamuelRoena91/calculator/blob/main/README_en.md)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_en.md)
+- 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_en.md)
 - 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_en.md)
 - 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_en.md)
 
