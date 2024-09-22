@@ -33,7 +33,7 @@
 - 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
 - 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ar.md)
 - 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
-- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator)
+- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ar.md)
 
 ## كيفية التشغيل
 
