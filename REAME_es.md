@@ -2,15 +2,7 @@
 
 ![Demostración del Proyecto](./gifs/toList.gif)
 
-<h2>🌐</h2>
-<ul>
-  <li><a href="https://github.com/SamuelRocha91/TodoList" target="_blank">Português</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md" target="_blank">Español</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md" target="_blank">English</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md" target="_blank">Русский</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md" target="_blank">中文</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md" target="_blank">العربية</a></li>
-</ul>
+## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/TodoList/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md)
 
 Este es un proyecto extra desarrollado durante el módulo de **Fundamentos** del curso de **Desarrollo Web de Trybe**. El objetivo principal fue practicar y aplicar conceptos de **JavaScript**, **CSS** y **HTML** en un organizador de tareas simple. El proyecto involucró la manipulación de los archivos `script.js`, `index.html` y `style.css`.
 
@@ -37,10 +29,11 @@ Durante el desarrollo de este proyecto, se mejoraron las siguientes competencias
 
 Aquí están otros proyectos que desarrollé al comienzo de mi trayectoria como desarrollador:
 
-- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md)
-- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_es.md)
-- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
-- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_es.md)
+- 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
+- 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_es.md)
+- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_es.md)
+- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_es.md)
 
 ## Cómo Ejecutar
 
