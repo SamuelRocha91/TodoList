@@ -2,15 +2,7 @@
 
 ![عرض المشروع](./gifs/toList.gif)
 
-<h2>🌐</h2>
-<ul>
-  <li><a href="https://github.com/SamuelRocha91/TodoList" target="_blank">Português</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md" target="_blank">Español</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md" target="_blank">English</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md" target="_blank">Русский</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md" target="_blank">中文</a></li>
-  <li><a href="https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md" target="_blank">العربية</a></li>
-</ul>
+## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/TodoList/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md)
 
 هذا مشروع إضافي تم تطويره في وحدة **الأساسيات** من دورة **تطوير الويب من Trybe**. الهدف الرئيسي من المشروع هو ممارسة وتطبيق مفاهيم **JavaScript** و **CSS** و **HTML** من خلال إنشاء منظم مهام بسيط. المشروع يتضمن التلاعب بالملفات `script.js` و `index.html` و `style.css`.
 
@@ -37,10 +29,11 @@
 
 إليك بعض المشاريع الأخرى التي طورتها في بداية مسيرتي كمطور:
 
-- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
-- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ar.md)
-- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
-- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ar.md)
+- 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
+- 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ar.md)
+- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
+- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator)
 
 ## كيفية التشغيل
 
