@@ -12,11 +12,13 @@
 
 <details>
   <summary><h2>Overview</h2></summary>
+
   This is a bonus project developed in the **Fundamentals** module of the **Web Development course at Trybe**. The main goal was to practice and apply concepts of **JavaScript**, **CSS**, and **HTML** in a simple task organizer. The project involved manipulating the `script.js`, `index.html`, and `style.css` files.
 </details>
 
 <details>
   <summary><h2>Features</h2></summary>
+
   The application allows:
   - Adding tasks to the list.
   - Marking a task as completed with a **double click**.
@@ -26,6 +28,7 @@
 
 <details>
   <summary><h2>Skills Developed</h2></summary>
+
   During the development of this project, the following skills were enhanced:
   1. Manipulation of elements in the **DOM**.
   2. Use of **Web Storage** to store data in the browser.
@@ -37,6 +40,7 @@
 
 <details>
   <summary><h2>Other Beginner Projects</h2></summary>
+
   Here are other projects I developed during the early stages of my journey as a developer:
   - 🖥️ [Binary Converter](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md)
   - 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_en.md)
@@ -47,9 +51,10 @@
 
 <details>
   <summary><h2>How to Run</h2></summary>
+
   1. Clone this repository:  
      ```bash
-     git clone https://github.com/seu-usuario/project-todo-list.git
+     git clone git@github.com:SamuelRocha91/TodoList.git
      ```
   2. Navigate to the project directory:  
      ```bash

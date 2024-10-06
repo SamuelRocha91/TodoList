@@ -12,11 +12,13 @@
 
 <details>
   <summary><h2>Visão geral</h2></summary>
+
   Este é um projeto bônus desenvolvido no módulo de **Fundamentos** do curso de **Desenvolvimento Web da Trybe**. O objetivo principal foi praticar e aplicar conceitos de **JavaScript**, **CSS** e **HTML** em um organizador de tarefas simples. O projeto envolveu a manipulação dos arquivos `script.js`, `index.html` e `style.css`.
 </details>
 
 <details>
   <summary><h2>Funcionalidades</h2></summary>
+
   A aplicação permite:
   - Adicionar tarefas à lista.
   - Marcar uma tarefa como concluída com um **duplo clique**.
@@ -26,6 +28,7 @@
 
 <details>
   <summary><h2>Competências Desenvolvidas</h2></summary>
+
   Durante o desenvolvimento deste projeto, foram aprimoradas as seguintes competências:
   1. Manipulação de elementos no **DOM**.
   2. Uso de **Web Storage** para armazenar dados no navegador.
@@ -37,6 +40,7 @@
 
 <details>
   <summary><h2>Outros Projetos de Iniciante</h2></summary>
+
   Aqui estão outros projetos que desenvolvi durante o início da minha jornada como desenvolvedor:
   - 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
   - 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
@@ -47,9 +51,10 @@
 
 <details>
   <summary><h2>Como Executar</h2></summary>
+
   1. Clone este repositório:  
      ```bash
-     git clone https://github.com/seu-usuario/project-todo-list.git
+     git clone git@github.com:SamuelRocha91/TodoList.git
      ```
   2. Navegue até o diretório do projeto:  
      ```bash

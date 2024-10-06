@@ -12,11 +12,13 @@
 
 <details>
   <summary><h2>Обзор</h2></summary>
+
   Это дополнительный проект, разработанный в модуле **Основы** курса **Веб-разработка от Trybe**. Основная цель заключалась в том, чтобы практиковать и применять концепции **JavaScript**, **CSS** и **HTML** в простом органайзере задач. Проект включал манипуляцию файлами `script.js`, `index.html` и `style.css`.
 </details>
 
 <details>
   <summary><h2>Функциональность</h2></summary>
+
   Приложение позволяет:
   - Добавлять задачи в список.
   - Помечать задачу как завершенную с помощью **двойного щелчка**.
@@ -26,6 +28,7 @@
 
 <details>
   <summary><h2>Развиваемые Компетенции</h2></summary>
+
   В ходе разработки этого проекта были улучшены следующие компетенции:
   1. Манипуляция элементами в **DOM**.
   2. Использование **Web Storage** для хранения данных в браузере.
@@ -37,6 +40,7 @@
 
 <details>
   <summary><h2>Другие Проекты Начинающего</h2></summary>
+
   Вот другие проекты, которые я разработал в начале своей карьеры как разработчик:
   - 🖥️ [Конвертер двоичных чисел](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md)
   - 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
@@ -47,9 +51,10 @@
 
 <details>
   <summary><h2>Как Запустить</h2></summary>
+
   1. Клонируйте этот репозиторий:  
      ```bash
-     git clone https://github.com/seu-usuario/project-todo-list.git
+     git clone git@github.com:SamuelRocha91/TodoList.git
      ```
   2. Перейдите в директорию проекта:  
      ```bash
