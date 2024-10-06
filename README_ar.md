@@ -12,11 +12,13 @@
 
 <details>
   <summary><h2>نظرة عامة</h2></summary>
+
   هذا مشروع إضافي تم تطويره في وحدة **المبادئ الأساسية** من دورة **تطوير الويب في Trybe**. الهدف الرئيسي هو ممارسة وتطبيق مفاهيم **JavaScript** و **CSS** و **HTML** في منظم مهام بسيط. شمل المشروع التعامل مع ملفات `script.js` و `index.html` و `style.css`.
 </details>
 
 <details>
   <summary><h2>الميزات</h2></summary>
+
   يسمح التطبيق بـ:
   - إضافة مهام إلى القائمة.
   - وضع علامة على المهمة كمكتملة من خلال **نقر مزدوج**.
@@ -26,6 +28,7 @@
 
 <details>
   <summary><h2>المهارات المكتسبة</h2></summary>
+
   خلال تطوير هذا المشروع، تم تحسين المهارات التالية:
   1. التعامل مع عناصر **DOM**.
   2. استخدام **Web Storage** لتخزين البيانات في المتصفح.
@@ -37,6 +40,7 @@
 
 <details>
   <summary><h2>مشاريع أخرى للمبتدئين</h2></summary>
+
   إليك مشاريع أخرى قمت بتطويرها خلال بداية رحلتي كمطور:
   - 🖥️ [محول ثنائي](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
   - 🎨 [فن البيكسل](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
@@ -47,9 +51,10 @@
 
 <details>
   <summary><h2>كيفية التشغيل</h2></summary>
+
   1. استنساخ هذا المستودع:  
      ```bash
-     git clone https://github.com/seu-usuario/project-todo-list.git
+     git clone git@github.com:SamuelRocha91/TodoList.git
      ```
   2. انتقل إلى دليل المشروع:  
      ```bash
